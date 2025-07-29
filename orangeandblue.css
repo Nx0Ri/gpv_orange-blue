@@ -1,5 +1,5 @@
-.controller.ds4 {
-  background: url(base.png);
+.custom.controller.ds4 {
+  background: url(https://github.com/Nx0Ri/gpv_orange-blue/blob/de7d45b803dbdbe13adf06622c3fe783c6ba543e/base.png);
   height: 598px;
   width: 806px;
   /*    margin-left: -403px;
@@ -154,11 +154,11 @@ background-position: 0 -70px;
   left: 567px;
 }
 
-.ds4 .button {
+.custom.ds4 .button {
   position: absolute;
   width: 55px;
   height: 55px;
-  background: url(face.png);
+  background: url(https://github.com/Nx0Ri/gpv_orange-blue/blob/de7d45b803dbdbe13adf06622c3fe783c6ba543e/face.png);
 }
 
 .ds4 .button.pressed {
@@ -196,9 +196,9 @@ background-position: 0 -70px;
   left: 228px;
 }
 
-.ds4 .stick {
+.custom.ds4 .stick {
   position: absolute;
-  background: url(sticks.png);
+  background: url(https://github.com/Nx0Ri/gpv_orange-blue/blob/de7d45b803dbdbe13adf06622c3fe783c6ba543e/sticks.png);
   height: 94px;
   width: 94px;
 }
@@ -229,8 +229,8 @@ background-position: 0 -70px;
   left: 92px;
 }
 
-.ds4 .face {
-  background: url(dpad.png);
+.custom.ds4 .face {
+  background: url(https://github.com/Nx0Ri/gpv_orange-blue/blob/de7d45b803dbdbe13adf06622c3fe783c6ba543e/dpad.png);
   position: absolute;
 }
 
@@ -282,8 +282,8 @@ background-position: 0 -70px;
 /*END PS4 Controller Styling*/
 
 /*BEGIN PS4 White Controller Styling*/
-.controller.ds4.white {
-  background-image: url(base.png);
+.custom.controller.ds4.white {
+  background-image: url(https://github.com/Nx0Ri/gpv_orange-blue/blob/de7d45b803dbdbe13adf06622c3fe783c6ba543e/base.png);
 }
 
 .ds4.white.disconnected {
@@ -307,14 +307,14 @@ background-position: 0 -70px;
   background-image: url(ps4-white-assets/start.svg);
 }
 
-.ds4.white .button {
-  background-image: url(face.png);
+.custom.ds4.white .button {
+  background-image: url(https://github.com/Nx0Ri/gpv_orange-blue/blob/de7d45b803dbdbe13adf06622c3fe783c6ba543e/face.png);
 }
 
-.ds4.white .stick {
-  background-image: url(sticks.png);
+.custom.ds4.white .stick {
+  background-image: url(https://github.com/Nx0Ri/gpv_orange-blue/blob/de7d45b803dbdbe13adf06622c3fe783c6ba543e/sticks.png);
 }
 
-.ds4.white .face {
-  background-image: url(dpad.png);
+.custom.ds4.white .face {
+  background-image: url(https://github.com/Nx0Ri/gpv_orange-blue/blob/de7d45b803dbdbe13adf06622c3fe783c6ba543e/dpad.png);
 }
