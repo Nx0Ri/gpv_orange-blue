@@ -1,5 +1,5 @@
 .controller.ds4 {
-  background: url(base.png);
+  background: url(1base.png);
   height: 598px;
   width: 806px;
   /*    margin-left: -403px;
@@ -158,7 +158,7 @@ background-position: 0 -70px;
   position: absolute;
   width: 55px;
   height: 55px;
-  background: url(face.png);
+  background: url(1face.png);
 }
 
 .ds4 .button.pressed {
@@ -198,7 +198,7 @@ background-position: 0 -70px;
 
 .ds4 .stick {
   position: absolute;
-  background: url(sticks.png);
+  background: url(1sticks.png);
   height: 94px;
   width: 94px;
 }
@@ -230,7 +230,7 @@ background-position: 0 -70px;
 }
 
 .ds4 .face {
-  background: url(dpad.png);
+  background: url(1dpad.png);
   position: absolute;
 }
 
@@ -283,7 +283,7 @@ background-position: 0 -70px;
 
 /*BEGIN PS4 White Controller Styling*/
 .controller.ds4.white {
-  background-image: url(base.png);
+  background-image: url(1base.png);
 }
 
 .ds4.white.disconnected {
@@ -308,13 +308,13 @@ background-position: 0 -70px;
 }
 
 .ds4.white .button {
-  background-image: url(face.png);
+  background-image: url(1face.png);
 }
 
 .ds4.white .stick {
-  background-image: url(sticks.png);
+  background-image: url(1sticks.png);
 }
 
 .ds4.white .face {
-  background-image: url(dpad.png);
+  background-image: url(1dpad.png);
 }
